@@ -1,0 +1,3957 @@
+[
+  {
+    "marka": "Acura",
+    "model": "MDX",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Alfa Romeo",
+    "model": "Stelvio",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Alfa Romeo",
+    "model": "Stelvio",
+    "altModel": "2.0 T"
+  },
+  {
+    "marka": "Audi",
+    "model": "E-Tron",
+    "altModel": "50 Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "E-Tron",
+    "altModel": "55 Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q2",
+    "altModel": "1.0 TFSI"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q2",
+    "altModel": "1.4 TFSI"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q2",
+    "altModel": "1.5 TFSI"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q2",
+    "altModel": "1.6 TDI"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q3",
+    "altModel": "1.4 TFSi"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q3",
+    "altModel": "2.0 TDI"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q5",
+    "altModel": "2.0 TFSI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q5",
+    "altModel": "2.0 TDI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q5",
+    "altModel": "2.0 TDI Quattro Design"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q5",
+    "altModel": "2.0 TDI Quattro Sport"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q7",
+    "altModel": "2.0 TFSI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q7",
+    "altModel": "3.0 TDI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q7",
+    "altModel": "4.0 TDI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q7",
+    "altModel": "4.2 FSI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q7",
+    "altModel": "4.2 TDI Quattro"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q8",
+    "altModel": "50 TDI"
+  },
+  {
+    "marka": "Audi",
+    "model": "Q8",
+    "altModel": "SQ8"
+  },
+  {
+    "marka": "Audi",
+    "model": "RS Q8",
+    "altModel": "4.0 TFSI"
+  },
+  {
+    "marka": "Bentley",
+    "model": "Bentayga",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Bentley",
+    "model": "Bentayga",
+    "altModel": "4.0 Diesel"
+  },
+  {
+    "marka": "Bentley",
+    "model": "Bentayga",
+    "altModel": "4.0 V8"
+  },
+  {
+    "marka": "Bentley",
+    "model": "Bentayga",
+    "altModel": "6.0"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "16d sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "16i sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "18d sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "18i sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "20d sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "20d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X1",
+    "altModel": "23d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X2",
+    "altModel": "1.6d sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X2",
+    "altModel": "18i sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X2",
+    "altModel": "20d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "20d"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "20d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "20i sDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "25i"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "30"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "30d"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "30sd"
+  },
+  {
+    "marka": "BMW",
+    "model": "X3",
+    "altModel": "M40i"
+  },
+  {
+    "marka": "BMW",
+    "model": "X4",
+    "altModel": "20d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "25d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "30d"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "30d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "30i"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "30sd"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "35d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "40d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "40e xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "44"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "44 M"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "46is"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "48i"
+  },
+  {
+    "marka": "BMW",
+    "model": "X5",
+    "altModel": "M50d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "30d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "35d xDrive "
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "35i xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "40d xDrive"
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "44 M"
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "50d M xDrive "
+  },
+  {
+    "marka": "BMW",
+    "model": "X6",
+    "altModel": "50i xDrive "
+  },
+  {
+    "marka": "Cadillac",
+    "model": "Escalade",
+    "altModel": "5.7 V8"
+  },
+  {
+    "marka": "Cadillac",
+    "model": "Escalade",
+    "altModel": "6.0 V8"
+  },
+  {
+    "marka": "Cadillac",
+    "model": "Escalade",
+    "altModel": "6.0 V8 Hybrid"
+  },
+  {
+    "marka": "Cadillac",
+    "model": "Escalade",
+    "altModel": "6.2 V8"
+  },
+  {
+    "marka": "Cadillac",
+    "model": "SRX",
+    "altModel": "3.6 V6"
+  },
+  {
+    "marka": "Cadillac",
+    "model": "SRX",
+    "altModel": "4.6 V8"
+  },
+  {
+    "marka": "Chery",
+    "model": "Tiggo",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Chery",
+    "model": "Tiggo",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Avalanche",
+    "altModel": "5.3"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Blazer",
+    "altModel": "4.2 LTZ"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Blazer",
+    "altModel": "4.3"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Captiva",
+    "altModel": "2.0 D"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Captiva",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Equinox",
+    "altModel": "3.4 LT"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Silverado",
+    "altModel": "4.0"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Silverado",
+    "altModel": "5.7"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Suburban",
+    "altModel": "5.3"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Suburban",
+    "altModel": "5.7"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Suburban",
+    "altModel": "7.4"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Tahoe",
+    "altModel": "5.3"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Tahoe",
+    "altModel": "5.7"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Tahoe",
+    "altModel": "6.2"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Trax",
+    "altModel": "1.4 LS"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Trax",
+    "altModel": "1.4 LT"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Trax",
+    "altModel": "1.6 LS"
+  },
+  {
+    "marka": "Chevrolet",
+    "model": "Trax",
+    "altModel": "1.6 LT"
+  },
+  {
+    "marka": "Chrysler",
+    "model": "Pacifica",
+    "altModel": "3.5 L"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C3 AirCross",
+    "altModel": "1.2 PureTech"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C3 AirCross",
+    "altModel": "1.5 BlueHDi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C3 AirCross",
+    "altModel": "1.6 BlueHDi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C4 Cactus",
+    "altModel": "1.2 PureTech"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C4 Cactus",
+    "altModel": "1.2 VTi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C4 Cactus",
+    "altModel": "1.2 e-VTi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C4 Cactus",
+    "altModel": "1.5 BlueHDi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C4 Cactus",
+    "altModel": "1.6 BlueHDi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C4 Cactus",
+    "altModel": "1.6 e-HDi"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C5 AirCross",
+    "altModel": "1.2 Puretech"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C5 AirCross",
+    "altModel": "1.5 BlueHDI"
+  },
+  {
+    "marka": "Citroën",
+    "model": "C5 AirCross",
+    "altModel": "1.6 PureTech"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.0 Tce"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.2 Tce"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.3 Tce"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.5 BlueDCI"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.5 dCi"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Dacia",
+    "model": "Duster",
+    "altModel": "1.6 Sce"
+  },
+  {
+    "marka": "Daewoo",
+    "model": "Korando",
+    "altModel": "2.9 D"
+  },
+  {
+    "marka": "Daewoo",
+    "model": "Musso",
+    "altModel": "2.9 D"
+  },
+  {
+    "marka": "Daewoo",
+    "model": "Musso",
+    "altModel": "3.2"
+  },
+  {
+    "marka": "Daihatsu",
+    "model": "Feroza",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Daihatsu",
+    "model": "Terios",
+    "altModel": "1.3"
+  },
+  {
+    "marka": "Daihatsu",
+    "model": "Terios",
+    "altModel": "1.5"
+  },
+  {
+    "marka": "DFM",
+    "model": "Rich",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Durango",
+    "altModel": "5.9L"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Journey",
+    "altModel": "2.0 CRD R/T"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Ram",
+    "altModel": "3.0 Diesel"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Ram",
+    "altModel": "5.2"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Ram",
+    "altModel": "5.9"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Caliber",
+    "altModel": "1.8"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Caliber",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Dakota",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Nitro",
+    "altModel": "2.8 CRD"
+  },
+  {
+    "marka": "Dodge",
+    "model": "Nitro",
+    "altModel": "4.0L"
+  },
+  {
+    "marka": "DS Automobiles",
+    "model": "DS3 Crossback",
+    "altModel": "1.2 PureTech"
+  },
+  {
+    "marka": "DS Automobiles",
+    "model": "DS3 Crossback",
+    "altModel": "1.5 BlueHDI"
+  },
+  {
+    "marka": "DS Automobiles",
+    "model": "DS7 Crossback",
+    "altModel": "1.5 BlueHDI"
+  },
+  {
+    "marka": "DS Automobiles",
+    "model": "DS7 Crossback",
+    "altModel": "1.6 E-Tense"
+  },
+  {
+    "marka": "DS Automobiles",
+    "model": "DS7 Crossback",
+    "altModel": "1.6 Puretech"
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.0"
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.3"
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.3 Multijet"
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.4 "
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.4 T"
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Fiat",
+    "model": "500 X",
+    "altModel": "1.6 Mjet"
+  },
+  {
+    "marka": "Fiat",
+    "model": "Fullback",
+    "altModel": "2.4 D"
+  },
+  {
+    "marka": "Fiat",
+    "model": "Freemont",
+    "altModel": "2.0 Multijet"
+  },
+  {
+    "marka": "Ford",
+    "model": "EcoSport",
+    "altModel": "1.0 EcoBoost"
+  },
+  {
+    "marka": "Ford",
+    "model": "EcoSport",
+    "altModel": "1.5 TDCI"
+  },
+  {
+    "marka": "Ford",
+    "model": "Edge",
+    "altModel": "2.0 TDCi"
+  },
+  {
+    "marka": "Ford",
+    "model": "Expedition",
+    "altModel": "5.4 V8"
+  },
+  {
+    "marka": "Ford",
+    "model": "Explorer",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Ford",
+    "model": "Explorer",
+    "altModel": "4.0 XLT"
+  },
+  {
+    "marka": "Ford",
+    "model": "Explorer",
+    "altModel": "5.0 Limited"
+  },
+  {
+    "marka": "Ford",
+    "model": "F",
+    "altModel": "150"
+  },
+  {
+    "marka": "Ford",
+    "model": "F",
+    "altModel": "250"
+  },
+  {
+    "marka": "Ford",
+    "model": "F",
+    "altModel": "350"
+  },
+  {
+    "marka": "Ford",
+    "model": "F",
+    "altModel": "450"
+  },
+  {
+    "marka": "Ford",
+    "model": "Flex",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Ford",
+    "model": "Kuga",
+    "altModel": "1.5 TDCI"
+  },
+  {
+    "marka": "Ford",
+    "model": "Kuga",
+    "altModel": "1.5 EcoBlue"
+  },
+  {
+    "marka": "Ford",
+    "model": "Kuga",
+    "altModel": "1.5 EcoBoost"
+  },
+  {
+    "marka": "Ford",
+    "model": "Kuga",
+    "altModel": "1.6 EcoBoost"
+  },
+  {
+    "marka": "Ford",
+    "model": "Kuga",
+    "altModel": "2.0 TDCi"
+  },
+  {
+    "marka": "Ford",
+    "model": "Puma",
+    "altModel": "1.0 EcoBoost"
+  },
+  {
+    "marka": "Ford",
+    "model": "Ranger",
+    "altModel": "2.0 EcoBlue"
+  },
+  {
+    "marka": "Ford",
+    "model": "Ranger",
+    "altModel": "2.2 TDCi"
+  },
+  {
+    "marka": "Ford",
+    "model": "Ranger",
+    "altModel": "2.5 TDCi"
+  },
+  {
+    "marka": "Ford",
+    "model": "Ranger",
+    "altModel": "3.0 TDCi"
+  },
+  {
+    "marka": "Ford",
+    "model": "Ranger",
+    "altModel": "3.2 TDCi"
+  },
+  {
+    "marka": "Ford",
+    "model": "Ranger Raptor",
+    "altModel": "2.0 EcoBlue"
+  },
+  {
+    "marka": "Ford",
+    "model": "Bronco",
+    "altModel": "5.8"
+  },
+  {
+    "marka": "Ford",
+    "model": "Escape",
+    "altModel": "2.3"
+  },
+  {
+    "marka": "Ford",
+    "model": "Freestyle",
+    "altModel": "SEL"
+  },
+  {
+    "marka": "Ford",
+    "model": "Maverick",
+    "altModel": "2.0 XLT"
+  },
+  {
+    "marka": "Ford",
+    "model": "Maverick",
+    "altModel": "2.7 TD GLX"
+  },
+  {
+    "marka": "GMC",
+    "model": "Canyon",
+    "altModel": "Denali 2.8"
+  },
+  {
+    "marka": "GMC",
+    "model": "Envoy",
+    "altModel": "4.2"
+  },
+  {
+    "marka": "GMC",
+    "model": "Jimmy",
+    "altModel": "4.3 V6"
+  },
+  {
+    "marka": "GMC",
+    "model": "Sierra",
+    "altModel": "3.0 L"
+  },
+  {
+    "marka": "GMC",
+    "model": "Sierra",
+    "altModel": "5.3 V8"
+  },
+  {
+    "marka": "GMC",
+    "model": "Sierra",
+    "altModel": "5.7 V8"
+  },
+  {
+    "marka": "GMC",
+    "model": "Sierra",
+    "altModel": "6.2 L"
+  },
+  {
+    "marka": "GMC",
+    "model": "Sierra",
+    "altModel": "6.6 L"
+  },
+  {
+    "marka": "GMC",
+    "model": "Typhoon",
+    "altModel": "4.3"
+  },
+  {
+    "marka": "GMC",
+    "model": "Yukon",
+    "altModel": "Vortec 5.7 V8"
+  },
+  {
+    "marka": "Honda",
+    "model": "CR-V",
+    "altModel": "1.5 VTEC"
+  },
+  {
+    "marka": "Honda",
+    "model": "CR-V",
+    "altModel": "1.6 i-DTEC"
+  },
+  {
+    "marka": "Honda",
+    "model": "CR-V",
+    "altModel": "2.0i"
+  },
+  {
+    "marka": "Honda",
+    "model": "CR-V",
+    "altModel": "2.2 i-CTDi"
+  },
+  {
+    "marka": "Honda",
+    "model": "CR-V",
+    "altModel": "2.2 i-DTEC"
+  },
+  {
+    "marka": "Honda",
+    "model": "CR-V",
+    "altModel": "2.4i"
+  },
+  {
+    "marka": "Honda",
+    "model": "HR-V",
+    "altModel": "1.5 i-VTEC"
+  },
+  {
+    "marka": "Honda",
+    "model": "HR-V",
+    "altModel": "1.6 i-DTEC"
+  },
+  {
+    "marka": "Honda",
+    "model": "HR-V",
+    "altModel": "2WD"
+  },
+  {
+    "marka": "Honda",
+    "model": "HR-V",
+    "altModel": "4WD"
+  },
+  {
+    "marka": "Hummer",
+    "model": "H Serisi",
+    "altModel": "H1"
+  },
+  {
+    "marka": "Hummer",
+    "model": "H Serisi",
+    "altModel": "H2"
+  },
+  {
+    "marka": "Hummer",
+    "model": "H Serisi",
+    "altModel": "H3"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "ix35",
+    "altModel": "1.6 GDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "ix35",
+    "altModel": "2.0 R"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "ix55",
+    "altModel": "3.0 CRDi"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Kona",
+    "altModel": "1.0 T-GDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Kona",
+    "altModel": "1.6 CRDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Kona",
+    "altModel": "1.6 T-GDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Kona",
+    "altModel": "Electric"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Santa Fe",
+    "altModel": "2.0 CRDi"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Santa Fe",
+    "altModel": "2.0 TCI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Santa Fe",
+    "altModel": "2.2 CRDi"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Santa Fe",
+    "altModel": "2.7 V6"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "altModel": "1.6 CRDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "altModel": "1.6 GDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "altModel": "1.6 T-GDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "altModel": "2.0 CRDi"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "altModel": "2.0 CVVT"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Galloper",
+    "altModel": "2.5 TDI"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Galloper",
+    "altModel": "3.0 V6"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Terracan",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Hyundai",
+    "model": "Terracan",
+    "altModel": "2.9 CRDi GL"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "FX",
+    "altModel": "FX30d GT"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "FX",
+    "altModel": "FX30d S"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "FX",
+    "altModel": "FX35"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "FX",
+    "altModel": "FX37 S"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "FX",
+    "altModel": "FX45"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "QX",
+    "altModel": "QX4"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "QX",
+    "altModel": "QX56"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "QX",
+    "altModel": "QX70 "
+  },
+  {
+    "marka": "Infiniti",
+    "model": "EX",
+    "altModel": "EX30d"
+  },
+  {
+    "marka": "Infiniti",
+    "model": "EX",
+    "altModel": "EX37"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "D-Max",
+    "altModel": "1.9 D"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "D-Max",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "D-Max",
+    "altModel": "2.5 D"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "D-Max",
+    "altModel": "3.0 D 4x4"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "Amigo",
+    "altModel": "3.2"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "Trooper",
+    "altModel": "2.6"
+  },
+  {
+    "marka": "Isuzu",
+    "model": "Trooper",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Jaguar",
+    "model": "E-Pace",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Jaguar",
+    "model": "F-Pace",
+    "altModel": "2.0 D"
+  },
+  {
+    "marka": "Jaguar",
+    "model": "F-Pace",
+    "altModel": "2.5 D"
+  },
+  {
+    "marka": "Jaguar",
+    "model": "I-Pace",
+    "altModel": "HSE"
+  },
+  {
+    "marka": "Jaguar",
+    "model": "I-Pace",
+    "altModel": "S"
+  },
+  {
+    "marka": "Jaguar",
+    "model": "I-Pace",
+    "altModel": "SE "
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "2.0 TD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "2.1 TD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "2.8 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "3.7"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "altModel": "4.0"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Commander",
+    "altModel": "3.0 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "1.3 GSE"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "1.4 Limited"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "1.6 Limited"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "1.6 MultiJet"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "2.0 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "2.0 Limited"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Compass",
+    "altModel": "2.4 CVT"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Gladiator",
+    "altModel": "3.6"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "2.7 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "3.0 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "3.1 TD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "3.6"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "4.0"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "4.7"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "5.2"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "5.7"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "5.9"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "6.1"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "altModel": "6.4"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Patriot",
+    "altModel": "2.0 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Patriot",
+    "altModel": "2.4 CVT"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Renegade",
+    "altModel": "1.0 T"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Renegade",
+    "altModel": "1.3 T"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Renegade",
+    "altModel": "1.4 MultiAir"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Renegade",
+    "altModel": "1.6 Multijet"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Renegade",
+    "altModel": "2.0 Multijet"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wrangler",
+    "altModel": "2.0 T"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wrangler",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wrangler",
+    "altModel": "2.8 CRD"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wrangler",
+    "altModel": "3.8"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wrangler",
+    "altModel": "4.0"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wrangler",
+    "altModel": "4.0i"
+  },
+  {
+    "marka": "Jeep",
+    "model": "CJ",
+    "altModel": "CJ-5"
+  },
+  {
+    "marka": "Jeep",
+    "model": "CJ",
+    "altModel": "CJ-6"
+  },
+  {
+    "marka": "Jeep",
+    "model": "CJ",
+    "altModel": "CJ-7"
+  },
+  {
+    "marka": "Jeep",
+    "model": "CJ",
+    "altModel": "CJ-8"
+  },
+  {
+    "marka": "Jeep",
+    "model": "Wagoneer",
+    "altModel": "5.4 V8"
+  },
+  {
+    "marka": "Kia",
+    "model": "Niro",
+    "altModel": "1.6 GDI"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sorento",
+    "altModel": "2.0 CRDi"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sorento",
+    "altModel": "2.2 CRDi"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sorento",
+    "altModel": "2.5 CRDi"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sorento",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Kia",
+    "model": "Soul",
+    "altModel": "1.6 CRDI"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sportage",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sportage",
+    "altModel": "1.6 CRDI"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sportage",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sportage",
+    "altModel": "2.0 CRDi"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sportage",
+    "altModel": "2.0 DSL"
+  },
+  {
+    "marka": "Kia",
+    "model": "Sportage",
+    "altModel": "2.0 TD"
+  },
+  {
+    "marka": "Kia",
+    "model": "Stonic",
+    "altModel": "1.0 T-GDI"
+  },
+  {
+    "marka": "Kia",
+    "model": "Stonic",
+    "altModel": "1.25 MPI"
+  },
+  {
+    "marka": "Kia",
+    "model": "Stonic",
+    "altModel": "1.4 MPI"
+  },
+  {
+    "marka": "Kia",
+    "model": "XCeed",
+    "altModel": "1.6 CRDI"
+  },
+  {
+    "marka": "Kia",
+    "model": "Retona",
+    "altModel": "2.0 D"
+  },
+  {
+    "marka": "Lada",
+    "model": "Niva",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Lada",
+    "model": "Niva",
+    "altModel": "1.7"
+  },
+  {
+    "marka": "Lada",
+    "model": "Niva",
+    "altModel": "1.7i"
+  },
+  {
+    "marka": "Lamborghini",
+    "model": "Urus",
+    "altModel": "4.0"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "90 2.0 L"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "90 2.5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "90 2.5 D"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "90 2.5 TDI"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 2.0"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 2.0 D"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 2.5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 2.5 D"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 2.5 TD"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 2.5 TDI"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 3.0"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 3.0 TDI"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "110 3.5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Defender",
+    "altModel": "130 3.5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "2.0 MPI"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "2.0 SD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "2.0 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "2.5 TD5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "2.5 TDI"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "2.7 TDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "3.0 SDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "3.0 TDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "3.5 V8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "3.9 V8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "4.0 Estate"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery",
+    "altModel": "4.4 HSE"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery Sport",
+    "altModel": "1.5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery Sport",
+    "altModel": "2.0 Si4 "
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery Sport",
+    "altModel": "2.0 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Discovery Sport",
+    "altModel": "2.2 SD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "2.0 PHEV"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "2.5 TDI"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.0 SDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.0 TD6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.0 TDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.6 TDV8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.9"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "3.9 Vogue"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.0 SE"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.2 Supercharged"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.4 SDV8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.4 TDV8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.4 V8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.4 Vogue"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.6 HSE"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "4.6 Vogue"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "5.0 Supercharged"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover",
+    "altModel": "5.0 V8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Evoque",
+    "altModel": "1.5 PHEV"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Evoque",
+    "altModel": "2.0 Si4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Evoque",
+    "altModel": "2.0 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Evoque",
+    "altModel": "2.2 SD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Evoque",
+    "altModel": "2.2 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "2.0 PHEV"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "2.0 SD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "2.7 TDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "3.0 SDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "3.0 TDV6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "3.6 TDV8 HSE"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "4.2 Supercharged"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "4.4 V8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "5.0 Supercharged"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Sport",
+    "altModel": "5.0 V8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Velar",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Range Rover Velar",
+    "altModel": "2.0 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "1.8"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "2.0 di"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "2.0 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "2.5 V6"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "II 2.2 SD4 HSE"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "II 2.2 TD4"
+  },
+  {
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "altModel": "ll 2.0 Si4"
+  },
+  {
+    "marka": "Lexus",
+    "model": "LX",
+    "altModel": "470"
+  },
+  {
+    "marka": "Lexus",
+    "model": "LX",
+    "altModel": "570"
+  },
+  {
+    "marka": "Lexus",
+    "model": "NX",
+    "altModel": "300h"
+  },
+  {
+    "marka": "Lexus",
+    "model": "RX",
+    "altModel": "200t"
+  },
+  {
+    "marka": "Lexus",
+    "model": "RX",
+    "altModel": "300"
+  },
+  {
+    "marka": "Lexus",
+    "model": "RX",
+    "altModel": "450h"
+  },
+  {
+    "marka": "Lexus",
+    "model": "RX L",
+    "altModel": "450h"
+  },
+  {
+    "marka": "Lincoln",
+    "model": "Aviator",
+    "altModel": "4.6 V8"
+  },
+  {
+    "marka": "Lincoln",
+    "model": "Navigator",
+    "altModel": "3.5L V6 EcoBoost"
+  },
+  {
+    "marka": "Lincoln",
+    "model": "Navigator",
+    "altModel": "5.4 4WD"
+  },
+  {
+    "marka": "Mahindra",
+    "model": "Goa",
+    "altModel": "2.5 CRDe"
+  },
+  {
+    "marka": "Mahindra",
+    "model": "Goa",
+    "altModel": "2.6 CRDe"
+  },
+  {
+    "marka": "Mahindra",
+    "model": "Pick-up",
+    "altModel": "2.5 4x2"
+  },
+  {
+    "marka": "Mahindra",
+    "model": "Pick-up",
+    "altModel": "2.5 4x4"
+  },
+  {
+    "marka": "Maserati",
+    "model": "Levante",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Maserati",
+    "model": "Levante",
+    "altModel": "3.0 D"
+  },
+  {
+    "marka": "Mazda",
+    "model": "CX-3",
+    "altModel": "1.5 SKY-D "
+  },
+  {
+    "marka": "Mazda",
+    "model": "CX-5",
+    "altModel": "2.0L"
+  },
+  {
+    "marka": "Mazda",
+    "model": "CX-5",
+    "altModel": "2.0i"
+  },
+  {
+    "marka": "Mazda",
+    "model": "CX-5",
+    "altModel": "2.2"
+  },
+  {
+    "marka": "Mazda",
+    "model": "CX-9",
+    "altModel": "3.7L Sport"
+  },
+  {
+    "marka": "Mazda",
+    "model": "B Serisi",
+    "altModel": "BT 50 2.5 D"
+  },
+  {
+    "marka": "Mazda",
+    "model": "B Serisi",
+    "altModel": "BT 50 3.0 D"
+  },
+  {
+    "marka": "Mazda",
+    "model": "B Serisi",
+    "altModel": "B 2500"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "EQC",
+    "altModel": "400"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GL",
+    "altModel": "320 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GL",
+    "altModel": "350 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GL",
+    "altModel": "420 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GL",
+    "altModel": "450"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GL",
+    "altModel": "450 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GL",
+    "altModel": "500"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLA",
+    "altModel": "45 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLA",
+    "altModel": "180 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLA",
+    "altModel": "180 d"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLA",
+    "altModel": "200"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLB",
+    "altModel": "200 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLB",
+    "altModel": "200 Progressive"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "220 d Exclusive"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "220 d Off Road"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "220 d Style"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "250 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "250 d AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "250 d Exclusive"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "250 Exclusive"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "250 Style"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "300 d AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLC",
+    "altModel": "350 e "
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLE",
+    "altModel": "250 d 4Matic AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLE",
+    "altModel": "250 d 4Matic Style"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLE",
+    "altModel": "350 d 4Matic AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLK",
+    "altModel": "220 CDI Premium"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLK",
+    "altModel": "220 CDI Style"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLK",
+    "altModel": "250 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLK",
+    "altModel": "250 Premium"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLK",
+    "altModel": "320 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLK",
+    "altModel": "350 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLS",
+    "altModel": "63"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLS",
+    "altModel": "350 D"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "GLS",
+    "altModel": "400"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "55 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "63 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "250 GD"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "290 GD"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "300"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "300 TD"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "320"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "350"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "350 D"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "400 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "400 D"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "G Serisi",
+    "altModel": "500"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "55 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "63 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "250"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "270 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "280 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "320"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "320 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "350"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "350 AMG"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "350 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "400 CDI"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "430"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "ML",
+    "altModel": "500"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "X",
+    "altModel": "220 d Pure "
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "X",
+    "altModel": "250 d Power"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "X",
+    "altModel": "250 d Progressive"
+  },
+  {
+    "marka": "Mercedes - Benz",
+    "model": "X",
+    "altModel": "350 d 4Matic Power"
+  },
+  {
+    "marka": "Mini",
+    "model": "Cooper Countryman",
+    "altModel": "1.5"
+  },
+  {
+    "marka": "Mini",
+    "model": "Cooper Countryman",
+    "altModel": "1.5 D"
+  },
+  {
+    "marka": "Mini",
+    "model": "Cooper Countryman",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Mini",
+    "model": "Cooper Countryman",
+    "altModel": "1.6 D"
+  },
+  {
+    "marka": "Mini",
+    "model": "Cooper Countryman",
+    "altModel": "1.6 S"
+  },
+  {
+    "marka": "Mini",
+    "model": "Cooper Countryman",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "ASX",
+    "altModel": "1.6 DI-D"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "ASX",
+    "altModel": "1.6 MIVEC"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "ASX",
+    "altModel": "1.8 DI-D"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Eclipse Cross",
+    "altModel": "1.5 MIVEC"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "L 200",
+    "altModel": "4x2"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "L 200",
+    "altModel": "4x4"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Outlander",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Outlander",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "1.8 GDi Pinin"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "2.0 GDi Pinin "
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "2.5 TD"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "2.6"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "2.8"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "2.8 TD"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "3.2 DI"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "3.2 DID"
+  },
+  {
+    "marka": "Mitsubishi",
+    "model": "Pajero",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Juke",
+    "altModel": "1.2 TC"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Juke",
+    "altModel": "1.5 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Juke",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Juke",
+    "altModel": "1.6 DIG-T"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Navara",
+    "altModel": "2.3 DCI"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Navara",
+    "altModel": "2.5 D"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Navara",
+    "altModel": "2.5 TDI"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Pathfinder",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Pathfinder",
+    "altModel": "2.5 TDI"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Pathfinder",
+    "altModel": "3.3 V6"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Pathfinder",
+    "altModel": "3.5 V6"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Patrol",
+    "altModel": "2.8 TD"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Patrol",
+    "altModel": "3.0 DI"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Patrol",
+    "altModel": "3.0 TDI"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Patrol",
+    "altModel": "4.2"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "1.3 DIG-T"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "1.2 DIG-T"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "1.5 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "1.6 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "altModel": "2.0 dCi "
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai+2",
+    "altModel": "1.5 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai+2",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Qashqai+2",
+    "altModel": "2.0 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "X-Trail",
+    "altModel": "1.3 DIG-T"
+  },
+  {
+    "marka": "Nissan",
+    "model": "X-Trail",
+    "altModel": "1.6 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "X-Trail",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Nissan",
+    "model": "X-Trail",
+    "altModel": "2.0 dCi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "X-Trail",
+    "altModel": "2.2 DDTi"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Country",
+    "altModel": "Country 4x2"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Country",
+    "altModel": "Country 4x4"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Murano",
+    "altModel": "3.5"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Rally Raid",
+    "altModel": "Rally Raid 4x4"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Skystar",
+    "altModel": "Skystar 4x2"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Skystar",
+    "altModel": "Skystar 4x4"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Terrano",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Terrano",
+    "altModel": "2.7 TDI"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Terrano",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Nissan",
+    "model": "Terrano",
+    "altModel": "3.0 DI"
+  },
+  {
+    "marka": "Opel",
+    "model": "Antara",
+    "altModel": "2.0 CDTI Cosmo"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland",
+    "altModel": "1.2 T"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland",
+    "altModel": "1.5 T"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland X",
+    "altModel": "1.2"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland X",
+    "altModel": "1.2 T"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland X",
+    "altModel": "1.5 CDTI"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland X",
+    "altModel": "1.5 D"
+  },
+  {
+    "marka": "Opel",
+    "model": "Crossland X",
+    "altModel": "1.6 CDTI"
+  },
+  {
+    "marka": "Opel",
+    "model": "Grandland X",
+    "altModel": "1.2"
+  },
+  {
+    "marka": "Opel",
+    "model": "Grandland X",
+    "altModel": "1.5 D"
+  },
+  {
+    "marka": "Opel",
+    "model": "Grandland X",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Opel",
+    "model": "Grandland X",
+    "altModel": "1.6 D"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka",
+    "altModel": "1.4"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka",
+    "altModel": "1.6 CDTI "
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka",
+    "altModel": "1.7 CDTI"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka X",
+    "altModel": "1.4"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka X",
+    "altModel": "1.4 T"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka X",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Opel",
+    "model": "Mokka X",
+    "altModel": "1.6 CDTi"
+  },
+  {
+    "marka": "Opel",
+    "model": "Frontera",
+    "altModel": "2.0 Sport"
+  },
+  {
+    "marka": "Opel",
+    "model": "Frontera",
+    "altModel": "2.2"
+  },
+  {
+    "marka": "Opel",
+    "model": "Frontera",
+    "altModel": "2.2 DTI"
+  },
+  {
+    "marka": "Opel",
+    "model": "Frontera",
+    "altModel": "2.2 DTI Sport"
+  },
+  {
+    "marka": "Opel",
+    "model": "Frontera",
+    "altModel": "2.3 TD"
+  },
+  {
+    "marka": "Opel",
+    "model": "Frontera",
+    "altModel": "3.2 Limited"
+  },
+  {
+    "marka": "Opel",
+    "model": "Monterey",
+    "altModel": "3.1 TD"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.2 e-VTi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.2 PureTech"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.2 VTi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.5 BlueHDI "
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.6 BlueHDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.6 e-HDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "2008",
+    "altModel": "1.6 VTi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.2 PureTech"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.5 BlueHDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.6 BlueHDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.6 e-HDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.6 HDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.6 PureTech"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.6 THP"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "3008",
+    "altModel": "1.6 VTI"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "4007",
+    "altModel": "2.2 HDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "5008",
+    "altModel": "1.2 PureTech"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "5008",
+    "altModel": "1.5 BlueHDI"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "5008",
+    "altModel": "1.6 BlueHDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "5008",
+    "altModel": "1.6 HDi"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "5008",
+    "altModel": "1.6 THP"
+  },
+  {
+    "marka": "Peugeot",
+    "model": "5008",
+    "altModel": "1.6 e-HDi"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "2.9 S"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "3.0 Diesel"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "3.0 Hybrid"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "3.2"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "3.6"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "3.6 S"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.0 GTS"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.1 S Diesel"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.5 S"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.5 Turbo"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.5 Turbo S"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.8 GTS"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.8 S"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Cayenne",
+    "altModel": "4.8 Turbo"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Macan",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Macan",
+    "altModel": "3.0 S Diesel"
+  },
+  {
+    "marka": "Porsche",
+    "model": "Macan",
+    "altModel": "3.6 Turbo"
+  },
+  {
+    "marka": "Poyraz",
+    "model": "2.4",
+    "altModel": "4x2"
+  },
+  {
+    "marka": "Renault",
+    "model": "Captur",
+    "altModel": "0.9"
+  },
+  {
+    "marka": "Renault",
+    "model": "Captur",
+    "altModel": "1.0 TCe"
+  },
+  {
+    "marka": "Renault",
+    "model": "Captur",
+    "altModel": "1.2"
+  },
+  {
+    "marka": "Renault",
+    "model": "Captur",
+    "altModel": "1.3 TCe"
+  },
+  {
+    "marka": "Renault",
+    "model": "Captur",
+    "altModel": "1.5 dCi"
+  },
+  {
+    "marka": "Renault",
+    "model": "Kadjar",
+    "altModel": "1.2 TCe"
+  },
+  {
+    "marka": "Renault",
+    "model": "Kadjar",
+    "altModel": "1.3 TCe"
+  },
+  {
+    "marka": "Renault",
+    "model": "Kadjar",
+    "altModel": "1.5 BlueDCI"
+  },
+  {
+    "marka": "Renault",
+    "model": "Kadjar",
+    "altModel": "1.5 dCi"
+  },
+  {
+    "marka": "Renault",
+    "model": "Kadjar",
+    "altModel": "1.6 dCi"
+  },
+  {
+    "marka": "Renault",
+    "model": "Koleos",
+    "altModel": "1.3 TCe"
+  },
+  {
+    "marka": "Renault",
+    "model": "Koleos",
+    "altModel": "1.6 dCi"
+  },
+  {
+    "marka": "Renault",
+    "model": "Koleos",
+    "altModel": "2.0 dCi"
+  },
+  {
+    "marka": "Renault",
+    "model": "Scenic RX4",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Rezvani",
+    "model": "Tank",
+    "altModel": "6.4"
+  },
+  {
+    "marka": "Rolls-Royce",
+    "model": "Cullinan ",
+    "altModel": "6.7"
+  },
+  {
+    "marka": "Seat",
+    "model": "Arona",
+    "altModel": "1.0 EcoTSI"
+  },
+  {
+    "marka": "Seat",
+    "model": "Arona",
+    "altModel": "1.6 TDI"
+  },
+  {
+    "marka": "Seat",
+    "model": "Ateca",
+    "altModel": "1.4 TSI"
+  },
+  {
+    "marka": "Seat",
+    "model": "Ateca",
+    "altModel": "1.5 EcoTSI"
+  },
+  {
+    "marka": "Seat",
+    "model": "Ateca",
+    "altModel": "1.6 TDI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kamiq",
+    "altModel": "1.0 TSI "
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kamiq",
+    "altModel": "1.5 TSI "
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kamiq",
+    "altModel": "1.6 TDI "
+  },
+  {
+    "marka": "Skoda",
+    "model": "Karoq",
+    "altModel": "1.0 TSI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Karoq",
+    "altModel": "1.5 TSI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Karoq",
+    "altModel": "1.6 TDI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "altModel": "1.4 TSI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "altModel": "1.5 TSI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "altModel": "2.0 Bi-TDI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "altModel": "2.0 TDI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Yeti",
+    "altModel": "1.2 TSI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Yeti",
+    "altModel": "1.4 TSI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Yeti",
+    "altModel": "1.6 TDI"
+  },
+  {
+    "marka": "Skoda",
+    "model": "Yeti",
+    "altModel": "2.0 TDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Actyon",
+    "altModel": "2.0 XDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Actyon Sports",
+    "altModel": "2.0 SXDI 4x2"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Actyon Sports",
+    "altModel": "2.0 SXDI 4x4"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Actyon Sports",
+    "altModel": "2.0 XDI 4x2"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Actyon Sports",
+    "altModel": "2.0 XDI 4x4"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando",
+    "altModel": "1.5 T"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando",
+    "altModel": "1.6 D"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando",
+    "altModel": "2.0 E XDI 2.0"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando",
+    "altModel": "2.9 D"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando",
+    "altModel": "3.2 SELX"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando Sports",
+    "altModel": "2.0 e-XDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando Sports",
+    "altModel": "2.0 e-XDI Limited"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando Sports",
+    "altModel": "2.0 e-XDI Modes"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando Sports",
+    "altModel": "2.0 e-XDI Special Edition"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Korando Sports",
+    "altModel": "2.0 XDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Kyron",
+    "altModel": "2.0 L XDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Kyron",
+    "altModel": "2.0 XDI "
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Musso",
+    "altModel": "2.3"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Musso",
+    "altModel": "2.9 TD Sports"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Musso",
+    "altModel": "3.2"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Musso Grand",
+    "altModel": "2.2 D"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Rexton",
+    "altModel": "2.0 e-XDI W"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Rexton",
+    "altModel": "2.7 XDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Tivoli",
+    "altModel": "1.6 D"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Tivoli",
+    "altModel": "1.6 G"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "XLV",
+    "altModel": "1.6 D"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "XLV",
+    "altModel": "1.6 G"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Rodius",
+    "altModel": "2.0 e-XDI"
+  },
+  {
+    "marka": "SsangYong",
+    "model": "Rodius",
+    "altModel": "2.7 XDI"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Forester",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Forester",
+    "altModel": "2.0i"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Forester",
+    "altModel": "2.0 TD"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Forester",
+    "altModel": "2.0 XT"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Forester",
+    "altModel": "2.5 XT"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Outback",
+    "altModel": "2.0 D"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Outback",
+    "altModel": "2.0 TD"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Outback",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Outback",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Subaru",
+    "model": "XV",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Subaru",
+    "model": "Tribeca (B9)",
+    "altModel": "3.0 Active"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "1.6"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "1.6 JX-A"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "1.9 DDiS"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "1.9 DDiS JLX-A"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.0 JLA"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.0 JLX-AL"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.0 TD"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.4 JLX-ES"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.5"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Grand Vitara",
+    "altModel": "2.7 XL-7"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Jimny",
+    "altModel": "1.3 JLX"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Jimny",
+    "altModel": "1.3 Style"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Jimny",
+    "altModel": "1.5"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "SJ",
+    "altModel": "Samurai"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "1.4 BoosterJet"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "1.6 DDIS"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "1.6 GL Plus"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "1.6 GLX"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "1.6 JLX"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "1.6 VVT"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "2.0 HDI "
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "JX"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "LX"
+  },
+  {
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "altModel": "VX"
+  },
+  {
+    "marka": "Tata",
+    "model": "Telcoline",
+    "altModel": "4x2 Çift Kabin"
+  },
+  {
+    "marka": "Tata",
+    "model": "Telcoline",
+    "altModel": "4x2 Tek Kabin"
+  },
+  {
+    "marka": "Tata",
+    "model": "Telcoline",
+    "altModel": "4x4 Çift Kabin"
+  },
+  {
+    "marka": "Tata",
+    "model": "Xenon",
+    "altModel": "4x2"
+  },
+  {
+    "marka": "Tata",
+    "model": "Xenon",
+    "altModel": "4x4"
+  },
+  {
+    "marka": "Tata",
+    "model": "Safari",
+    "altModel": "3.0 TDI"
+  },
+  {
+    "marka": "Toyota",
+    "model": "C-HR",
+    "altModel": "1.2 Turbo"
+  },
+  {
+    "marka": "Toyota",
+    "model": "C-HR",
+    "altModel": "1.8 Hybrid"
+  },
+  {
+    "marka": "Toyota",
+    "model": "FJ Cruiser",
+    "altModel": "FJ40"
+  },
+  {
+    "marka": "Toyota",
+    "model": "FJ Cruiser",
+    "altModel": "FJ70"
+  },
+  {
+    "marka": "Toyota",
+    "model": "FJ Cruiser",
+    "altModel": "FJ75"
+  },
+  {
+    "marka": "Toyota",
+    "model": "FJ Cruiser",
+    "altModel": "FJ80"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "2.4 D"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Active 2.4 4x2 "
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Active 2.4 4x4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Adventure 2.4 4x2"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Adventure 2.4 4x4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Adventure  2.5 4x2 "
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Adventure 2.5 4x4 "
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Adventure 2.7"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Basic 2.5 4x2 "
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Comfort 2.5 4x2 "
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Çift Kabin 4x4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Elegant 3.0 4x4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Hi-Cruiser  2.4 4x4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Hi-Cruiser 2.8 4x4 "
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Invincible 2.4 4x2"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Hilux",
+    "altModel": "Invincible 2.4 4x4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "2.8 D-4D Prado"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "3.0 D-4D Prado"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "3.4 Prado"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "4.0 Prado"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "4.2 Diesel"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "4.5 D"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "4.7"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "5.7"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "BJ 60"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "BJ 75"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "HJ 60"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "LJ 70"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Land Cruiser",
+    "altModel": "VX 80"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.0"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.0 D"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.0 D-4D"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.0 Extra Multidrive S"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.0 Multidrive S"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.2 D-4D"
+  },
+  {
+    "marka": "Toyota",
+    "model": "RAV4",
+    "altModel": "2.5 Hybrid"
+  },
+  {
+    "marka": "Toyota",
+    "model": "4Runner",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Toyota",
+    "model": "4Runner",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Cami",
+    "altModel": "1.3"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Fortuner",
+    "altModel": "3.0"
+  },
+  {
+    "marka": "Toyota",
+    "model": "Tacoma",
+    "altModel": "2.4"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Amarok",
+    "altModel": "2.0 Bi-TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Amarok",
+    "altModel": "2.0 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Amarok",
+    "altModel": "3.0 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Tiguan",
+    "altModel": "1.4 TSI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Tiguan",
+    "altModel": "1.5 TSI "
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Tiguan",
+    "altModel": "1.6 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Tiguan",
+    "altModel": "2.0 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Tiguan AllSpace",
+    "altModel": "1.4 TSI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Tiguan AllSpace",
+    "altModel": "1.5 TSI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Touareg",
+    "altModel": "2.5 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Touareg",
+    "altModel": "3.0 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Touareg",
+    "altModel": "3.2"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Touareg",
+    "altModel": "4.2"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Touareg",
+    "altModel": "5.0 TDI"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "Touareg",
+    "altModel": "6.0"
+  },
+  {
+    "marka": "Volkswagen",
+    "model": "T-Roc",
+    "altModel": "1.5 TSI"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC40",
+    "altModel": "1.5 T3"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC40",
+    "altModel": "1.5 T5 Recharge"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC40",
+    "altModel": "2.0 D3"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC40",
+    "altModel": "2.0 D4"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC40",
+    "altModel": "2.0 T4"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC60",
+    "altModel": "2.0 B4"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC60",
+    "altModel": "2.0 D3"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC60",
+    "altModel": "2.0 D4"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC60",
+    "altModel": "2.0 T"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC60",
+    "altModel": "2.4 D5"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC60",
+    "altModel": "3.0 T6"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC70",
+    "altModel": "2.4 D5"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC70",
+    "altModel": "2.5 T"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC70",
+    "altModel": "3.2 Premium"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.0 B5"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.0 D5"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.0 T6"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.0 T8"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.4 D5"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.5 T"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.5 T5"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "2.9 T6"
+  },
+  {
+    "marka": "Volvo",
+    "model": "XC90",
+    "altModel": "4.4"
+  }
+]
